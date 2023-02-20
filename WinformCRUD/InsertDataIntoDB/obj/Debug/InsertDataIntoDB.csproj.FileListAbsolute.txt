@@ -1,0 +1,9 @@
+C:\Users\HDC\source\repos\InsertDataIntoDB\InsertDataIntoDB\bin\Debug\InsertDataIntoDB.exe.config
+C:\Users\HDC\source\repos\InsertDataIntoDB\InsertDataIntoDB\bin\Debug\InsertDataIntoDB.exe
+C:\Users\HDC\source\repos\InsertDataIntoDB\InsertDataIntoDB\bin\Debug\InsertDataIntoDB.pdb
+C:\Users\HDC\source\repos\InsertDataIntoDB\InsertDataIntoDB\obj\Debug\InsertDataIntoDB.Properties.Resources.resources
+C:\Users\HDC\source\repos\InsertDataIntoDB\InsertDataIntoDB\obj\Debug\InsertDataIntoDB.csproj.GenerateResource.cache
+C:\Users\HDC\source\repos\InsertDataIntoDB\InsertDataIntoDB\obj\Debug\InsertDataIntoDB.csproj.CoreCompileInputs.cache
+C:\Users\HDC\source\repos\InsertDataIntoDB\InsertDataIntoDB\obj\Debug\InsertDataIntoDB.exe
+C:\Users\HDC\source\repos\InsertDataIntoDB\InsertDataIntoDB\obj\Debug\InsertDataIntoDB.pdb
+C:\Users\HDC\source\repos\InsertDataIntoDB\InsertDataIntoDB\obj\Debug\InsertDataIntoDB.Form1.resources
